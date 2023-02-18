@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>0x00. AirBnB clone - The console</h1>
 <code>Group Project</code> <code>Python</code> <code>OOP</code>
 <h2>Welcome to the AirBnB clone Project!</h2>
@@ -106,3 +107,6 @@ guillaume@ubuntu:~/AirBnB$
 
 
 
+=======
+# AirBnB_clone
+>>>>>>> 2f01745802b4437881ee3baf42509feadb5094ea
